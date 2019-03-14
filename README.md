@@ -4,7 +4,7 @@ A program to query the Active Directory whether a username or initials is alread
 
 ## Getting Started
 
-Download the Repository and open the .exe
+Download the Release and start the ADTool.exe
 
 ### Prerequisites
 
