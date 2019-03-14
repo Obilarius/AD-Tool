@@ -1,4 +1,4 @@
-# AD-Tool
+# AD-NameCheck
 
 A program to query the Active Directory whether a username or initials is already taken. In addition, to check who is logged on to a particular PC.
 
